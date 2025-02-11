@@ -37,7 +37,7 @@ The following tools were used in the construction of the project:
 
 <h2 id=author>:grin: Author</h2>
 
-Developed by <a href="[https://www.linkedin.com/in/danhpaiva/](https://www.linkedin.com/in/ana-clara-taboada-738119310/)" target="_blank">Ana Clara Taboada</a>
+Developed by <a href="https://www.linkedin.com/in/ana-clara-taboada-738119310/" target="_blank">Ana Clara Taboada</a>
 
 <h2 id=licence>:lock: Licence</h2>
 <a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
