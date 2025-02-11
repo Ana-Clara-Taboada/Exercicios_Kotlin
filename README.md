@@ -4,9 +4,6 @@
 <a href="https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/"></a>
 </h3>
 
-<p align="center">
-    <img src="./images/csharp.jpg" width="150">
-</p>
 
 <p align="center">
  <a href="#status">Status</a> • 
