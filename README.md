@@ -40,4 +40,4 @@ The following tools were used in the construction of the project:
 Developed by <a href="https://www.linkedin.com/in/ana-clara-taboada-738119310/" target="_blank">Ana Clara Taboada</a>
 
 <h2 id=licence>:lock: Licence</h2>
-<a href="[https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE]" target="_blank">MIT</a>
+<a href="(https://github.com/Ana-Clara-Taboada/Exercicios_Kotlin/blob/main/LICENSE)" target="_blank">MIT</a>
