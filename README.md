@@ -1,5 +1,5 @@
 # Treinando Kotlin
-<h1 align="center">Lista de exercícios para treinar Kotlin</h1>
+<h1 align="center">💻Lista de exercícios para treinar Kotlin</h1>
 <h3 align="center">
 <a href="https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/"></a>
 </h3>
