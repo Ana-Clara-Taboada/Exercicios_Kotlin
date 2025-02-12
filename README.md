@@ -19,9 +19,9 @@
 </h2>
 
 <h2 id=objective>:scroll: Objective</h2>
-The goal is to improve unit testing.<br>
-The advantages of testing our applications.<br>
-Learn new testing tools.
+The goal is to improve programming logic.<br>
+the goal is to learn kotlin<br>
+Learn new compilers.
 
 <h2 id=installation>:clipboard: Installation</h2>
 
